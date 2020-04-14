@@ -62,7 +62,10 @@ width: 7%;
 
 /* Gotcha page */
 
-
 .gotchaimg{
-  width: 15%;
+  width: 30%;
+}
+
+.eastermessage{
+  font-size: 250%;
 }
