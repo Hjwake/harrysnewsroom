@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #231F20;
+  font-family: 'Sniglet', cursive;
+}
+
+h3 {
+  color: #FFCD0E;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+  color: #FFCD0E;
+  font-family: 'Sniglet', cursive;
+}
+
+.bolded {
+  color: #231F20;
+  font-family: 'Sniglet', cursive;
+}
+
+.odtitle{
+  padding-top: 3%;
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.row2 {
+  background-color: #dddddd;
+}
+
+.beehiveimg {
+  width: 70%;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 1% auto;
+}
+
+
+.cautionsign{
+  padding-top: 30px;
+width: 7%;
+}
+
+/* Gotcha page */
+
+
+.gotchaimg{
+  width: 15%;
+}
